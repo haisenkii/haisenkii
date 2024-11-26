@@ -44,7 +44,7 @@
 
   <!-- Great Sage's Response -->
   <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
   </p>
 
   <!-- Rimuru's Dialog -->
@@ -54,7 +54,7 @@
 
   <!-- Great Sage's Response -->
   <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
   </p>
 
   <!-- Rimuru's Dialog -->
@@ -64,7 +64,7 @@
 
   <!-- Great Sage's Response -->
   <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
   </p>
 
 </div>
@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  $${\color{orange}Characters \space of \space resilience \space remind \space us \space to \space grow.}$$
+  $${\color{#854847}Characters \space of \space resilience \space remind \space us \space to \space grow.}$$
 </p>
 
 ---
