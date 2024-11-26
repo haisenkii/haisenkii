@@ -32,14 +32,45 @@
  <img src="https://media1.tenor.com/m/aeEfTsQUsIQAAAAd/great-sage.gif" alt="Rimuru Attack" width="250">
 </p>
     
-<p align="center" style="background: #eef5ff; padding: 10px; border-radius: 10px;">
-  How did it come to this?<br>
-  Notice: Cannot be answered.<br>
-  ... Was it a mistake to be involved with humans?<br>
-  Notice: Cannot be answered.<br>
-  ...Hey... Is this my fault?<br>
-  Notice: Cannot be answered.
-</p>
+
+<div style="font-family: 'Courier New', monospace; background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+
+ <div align="center" style="background: #f8f9fa; padding: 15px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  
+  <!-- Rimuru's Dialog -->
+  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
+    $${\color{#6BCBFF}How \space did \space it \space come \space to \space this?}$$
+  </p>
+
+  <!-- Great Sage's Response -->
+  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
+    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+  </p>
+
+  <!-- Rimuru's Dialog -->
+  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
+    $${\color{#6BCBFF}... \space Was \space it \space a \space mistake \space to \space be \space involved \space with \space humans?}$$
+  </p>
+
+  <!-- Great Sage's Response -->
+  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
+    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+  </p>
+
+  <!-- Rimuru's Dialog -->
+  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
+    $${\color{#6BCBFF}...Hey... \space Is \space this \space my \space fault?}$$
+  </p>
+
+  <!-- Great Sage's Response -->
+  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
+    $${\color{#854847}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
+  </p>
+
+</div>
+
+</div>
+
 
 ---
 
