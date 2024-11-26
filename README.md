@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  $${\color{lightblue} Welcome! \space }$$
+  $${\color{#A7E2E3} Welcome! \space }$$
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  $${\color{orange}"Don't \space light \space yourself \space up \space to \space keep \space other \space warm."}$$
+  $${\color{#E6AA68}"Don't \space light \space yourself \space up \space to \space keep \space other \space warm."}$$
 </p>
 
 ---
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  $${\color{blue}"Power \space without \space conviction \space is \space meaningless."}$$
+  $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
 </p>
 
 <p align="center">
@@ -69,8 +69,6 @@
 
 </div>
 
-</div>
-
 
 ---
 
@@ -83,8 +81,8 @@
 </p>
 
 <p align="center">
-  $${\color{orange}"You \space think \space I've \space been \space bad \space to \space you?"}$$<br>
-  $${\color{orange}"I \space think \space you \space need \space to \space realize \space how \space lucky \space you \space are."}$$
+  $${\color{#E6AA68}"You \space think \space I've \space been \space bad \space to \space you?"}$$<br>
+  $${\color{#E6AA68}"I \space think \space you \space need \space to \space realize \space how \space lucky \space you \space are."}$$
 </p>
 
 ---
@@ -101,7 +99,7 @@
 </p>
 
 <p align="center">
-  $${\color{#854847}Characters \space of \space resilience \space remind \space us \space to \space grow.}$$
+  $${\color{#E6AA68}Characters \space of \space resilience \space remind \space us \space to \space grow.}$$
 </p>
 
 ---
@@ -111,9 +109,9 @@
 </h3>
 
 <p align="center">
-    <img src="https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif" alt="Cat GIF" width="300">
+    <img src="https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif" alt="Cat GIF" width="50">
 </p>
 
 <p align="center">
-  $${\color{blue}"Wake \space up."}$$
+  Wake up.
 </p>
