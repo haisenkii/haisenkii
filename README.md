@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/6b/c9/f3/6bc9f3db21f74b406b8df0fb159ef3e0.gif" alt="Ren Hana GIF" width="115">
-
+      <img src="https://media.tenor.com/TvMipbzNxQEAAAAi/renhana-ren.gif" alt="Ren heart" width="50">
 </div>
 
 </p>
@@ -67,22 +66,6 @@
   </p>
 
 </div>
-
-
----
-
-<h3 align="center">
-  <img src="https://media.tenor.com/TvMipbzNxQEAAAAi/renhana-ren.gif" alt="Ren heart" width="50">
-</h3>
-
-<p align="center">
-    <img src="https://media.tenor.com/7bHOSEEX8xoAAAAi/ren-hana-boyfriend-to-death.gif" alt="Ren Hana Smirk" width="250">
-</p>
-
-<p align="center">
-  $${\color{#E6AA68}"You \space think \space I've \space been \space bad \space to \space you?"}$$<br>
-  $${\color{#E6AA68}"I \space think \space you \space need \space to \space realize \space how \space lucky \space you \space are."}$$
-</p>
 
 ---
 
