@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1142358494478090320/1310902534117916813/foxfox.gif?ex=6746e89f&is=6745971f&hm=2869c9de17eea2c485f338aceadd29fc90e82c3183c3f38e7afd9f4be2b3e5e1&" alt="Fox GIF" width="100">
     <img src="https://i.pinimg.com/originals/6b/c9/f3/6bc9f3db21f74b406b8df0fb159ef3e0.gif" alt="Ren Hana GIF" width="115">
 
 </div>
