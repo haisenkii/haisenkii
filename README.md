@@ -20,7 +20,7 @@
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/corpseparty/images/7/78/SakutaroProfile.png/revision/latest/scale-to-width-down/230?cb=20130419204543" width="250">
-<img src=" https://i0.wp.com/blerdyotome.com/wp-content/uploads/2024/04/Takara-1.png?resize=500%2C500&ssl=1" width="250">
+<img src="https://i0.wp.com/blerdyotome.com/wp-content/uploads/2024/04/Takara-1.png?resize=500%2C500&ssl=1" width="250">
 </p>
    
 <h3 align="center">
