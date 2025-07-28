@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif" width="250">
+  $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
 </p>
 
 <p align="center">
-  $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
+<img src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif" width="250">
 </p>
     
 <h3 align="center">
