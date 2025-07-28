@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  $${\color{#A7E2E3} Welcome! \space }$$
+  $${\color{#A7E2E3} DRAW ON MY STRAW PAGE!! \space }$$
 </h1>
 
 <p align="center">
