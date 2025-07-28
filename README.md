@@ -18,18 +18,6 @@
   $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
 </p>
     
-
-<h3 align="center">
-  $${\color{lightblue}✨ \space My \space Favorites \space ✨}$$
-</h3>
-
-<p align="center">
-    <img src="https://tenor.com/view/lawren-lawrence-oleander-ren-hana-btd2-boyfriend-to-death-gif-14790024302071879923.gif" alt="Blue Icon" width="100">
-    <img src="https://media.tenor.com/K3e8uUmjBFAAAAAi/omori.gif" alt="Omori Icon" width="50">
-    <img src="https://media.tenor.com/fBuI6W-ls0cAAAAi/basil-omori.gif" alt="Basil Icon" width="50">
-    <img src="https://media.tenor.com/byuqJlqamOAAAAAi/ren-hana-boyfriend-to-death.gif" alt="Ren Mini Icon" width="80">
-</p>
-
 <h3 align="center">
   Stop.
 </h3>
