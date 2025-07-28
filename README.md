@@ -4,7 +4,6 @@
 
 <p align="center">
       <img src="https://media.tenor.com/TvMipbzNxQEAAAAi/renhana-ren.gif" alt="Ren heart" width="50">
-</div>
 </p>
 
 <h3 align="center">
@@ -20,10 +19,6 @@
 </p>
     
 
-</div>
-
----
-
 <h3 align="center">
   $${\color{lightblue}✨ \space My \space Favorites \space ✨}$$
 </h3>
@@ -34,8 +29,6 @@
     <img src="https://media.tenor.com/fBuI6W-ls0cAAAAi/basil-omori.gif" alt="Basil Icon" width="50">
     <img src="https://media.tenor.com/byuqJlqamOAAAAAi/ren-hana-boyfriend-to-death.gif" alt="Ren Mini Icon" width="80">
 </p>
-
----
 
 <h3 align="center">
   Stop.
