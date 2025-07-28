@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-<img src="" width="200">
-<img src="" width="250">
+
 </p>
    
 <h3 align="center">
