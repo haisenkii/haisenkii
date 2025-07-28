@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif" width="250">
+<img src="[https://static.wikia.nocookie.net/corpseparty/images/7/78/SakutaroProfile.png/revision/latest/scale-to-width-down/230?cb=20130419204543" width="250">
 </p>
     
 <h3 align="center">
