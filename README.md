@@ -5,13 +5,7 @@
 <p align="center">
       <img src="https://media.tenor.com/TvMipbzNxQEAAAAi/renhana-ren.gif" alt="Ren heart" width="50">
 </div>
-
 </p>
-
-<p align="center">
-  $${\color{#E6AA68}"Don't \space light \space yourself \space up \space to \space keep \space other \space warm."}$$
-</p>
-
 ---
 
 <h3 align="center">
@@ -35,30 +29,6 @@
 
  <div align="center" style="background: #f8f9fa; padding: 15px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   
-  <!-- Rimuru's Dialog -->
-  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
-    $${\color{#6BCBFF}How \space did \space it \space come \space to \space this?}$$
-  </p>
-
-  <!-- Great Sage's Response -->
-  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
-  </p>
-
-  <!-- Rimuru's Dialog -->
-  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
-    $${\color{#6BCBFF}... \space Was \space it \space a \space mistake \space to \space be \space involved \space with \space humans?}$$
-  </p>
-
-  <!-- Great Sage's Response -->
-  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
-  </p>
-
-  <!-- Rimuru's Dialog -->
-  <p style="background: #eef5ff; padding: 10px; border-radius: 10px;"> 
-    $${\color{#6BCBFF}...Hey... \space Is \space this \space my \space fault?}$$
-  </p>
 
   <!-- Great Sage's Response -->
   <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
@@ -78,10 +48,6 @@
     <img src="https://media.tenor.com/K3e8uUmjBFAAAAAi/omori.gif" alt="Omori Icon" width="50">
     <img src="https://media.tenor.com/fBuI6W-ls0cAAAAi/basil-omori.gif" alt="Basil Icon" width="50">
     <img src="https://media.tenor.com/byuqJlqamOAAAAAi/ren-hana-boyfriend-to-death.gif" alt="Ren Mini Icon" width="80">
-</p>
-
-<p align="center">
-  $${\color{#E6AA68}Characters \space of \space resilience \space remind \space us \space to \space grow.}$$
 </p>
 
 ---
