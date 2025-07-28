@@ -19,21 +19,7 @@
 <p align="center">
   $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
 </p>
-
-<p align="center">
- <img src="https://media1.tenor.com/m/aeEfTsQUsIQAAAAd/great-sage.gif" alt="Rimuru Attack" width="250">
-</p>
     
-
-<div style="font-family: 'Courier New', monospace; background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-
- <div align="center" style="background: #f8f9fa; padding: 15px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  
-
-  <!-- Great Sage's Response -->
-  <p style="background: #f5e9e9; padding: 10px; border-radius: 10px;"> 
-    $${\color{#808080}[⧫ \space Notice: \space Cannot \space be \space answered. \space ⧫]}$$
-  </p>
 
 </div>
 
