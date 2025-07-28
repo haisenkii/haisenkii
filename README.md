@@ -14,6 +14,9 @@
     <img src="https://mishatventures.wordpress.com/wp-content/uploads/2019/01/tumblr_pkpttujtz21u86t2qo3_500.gif" alt="Rimuru GIF" width="250">
 </p>
 
+https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif
+
+
 <p align="center">
   $${\color{#C9D7F8}"Power \space without \space conviction \space is \space meaningless."}$$
 </p>
