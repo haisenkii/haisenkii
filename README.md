@@ -6,7 +6,6 @@
       <img src="https://media.tenor.com/TvMipbzNxQEAAAAi/renhana-ren.gif" alt="Ren heart" width="50">
 </div>
 </p>
----
 
 <h3 align="center">
   $${\color{blue}💙💙}$$
