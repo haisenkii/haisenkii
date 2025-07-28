@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  $${\color{#A7E2E3} DRAW /space ON/space MY/space STRAW/space PAGE!! \space }$$
+  $${\color{#A7E2E3} DRAW \space ON\space MY\space STRAW\space PAGE!! \space }$$
 </h1>
 
 <p align="center">
