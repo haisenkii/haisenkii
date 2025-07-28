@@ -14,7 +14,7 @@
     <img src="https://mishatventures.wordpress.com/wp-content/uploads/2019/01/tumblr_pkpttujtz21u86t2qo3_500.gif" alt="Rimuru GIF" width="250">
 </p>
 
-https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif
+<img src="https://media.tenor.com/Hs0fUlHHGawAAAAi/neco-arc-lumina.gif" width="250">
 
 
 <p align="center">
