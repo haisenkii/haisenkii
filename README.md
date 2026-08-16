@@ -22,10 +22,6 @@
 
 </p>
    
-<h3 align="center">
-  Stop.
-</h3>
-
 <p align="center">
     <img src="https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif" alt="Cat GIF" width="50">
 </p>
